@@ -10,11 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,28 +167,48 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="candyCoded">
+      <created>1600947694353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600947694354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="candyCoded" />
+    <option name="LAST_COMMIT_MESSAGE" value="candyCoded" />
   </component>
   <component name="WindowStateProjectService">
     <state x="725" y="150" width="452" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600946967141">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="725" y="150" width="452" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1600946967141" />
-    <state width="594" height="161" key="GridCell.Tab.0.bottom" timestamp="1600947628969">
+    <state x="533" y="0" key="CommitChangelistDialog2" timestamp="1600947691878">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600947628969" />
-    <state width="594" height="161" key="GridCell.Tab.0.center" timestamp="1600947628968">
+    <state x="533" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600947691878" />
+    <state width="594" height="162" key="GridCell.Tab.0.bottom" timestamp="1600947713145">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600947628968" />
-    <state width="594" height="161" key="GridCell.Tab.0.left" timestamp="1600947628968">
+    <state width="594" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600947713145" />
+    <state width="594" height="162" key="GridCell.Tab.0.center" timestamp="1600947713145">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600947628968" />
-    <state width="594" height="161" key="GridCell.Tab.0.right" timestamp="1600947628969">
+    <state width="594" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600947713145" />
+    <state width="594" height="162" key="GridCell.Tab.0.left" timestamp="1600947713145">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="594" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600947628969" />
+    <state width="594" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600947713145" />
+    <state width="594" height="162" key="GridCell.Tab.0.right" timestamp="1600947713145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="594" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600947713145" />
+    <state x="466" y="76" key="Vcs.Push.Dialog.v2" timestamp="1600947705195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600947705195" />
   </component>
 </project>
